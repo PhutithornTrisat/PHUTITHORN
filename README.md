@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi! I'm a developer who loves building things for the web. I'm passionate about Front-end Development and UI/UX Design. I believe that a good website should not only work well but also look great
 
 * 🌍  I'm based in Bangkok, Thailand
+* 🎓  I'm studying at Rangsit University
 * ✉️  You can contact me at [phutithorn@gmail.com](mailto:phutithorn@gmail.com)
 
 <p align="left">
